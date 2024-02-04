@@ -8,9 +8,7 @@ Develop an object recognition  model .The objective is to train a model that wil
 **Objective:**
 
 *   Implementing a computer vision architecture to perform element detection and identification.
-*  
-The model identifies elements like text,heading,buttons, logo images,Navigation dots, links, input fields etc.
-
+*  The model identifies elements like text,heading,buttons, logo images,Navigation dots, links, input fields etc.
 *   Model creates a bounding box around each element and tag it with the desired element name.
 
 **Dataset:**
